@@ -42,7 +42,7 @@ console.log(strImgDriveF);
                              
         <div class="row ">
             <div class="col-4">
-                <img src="${strImgDriveF}}" alt="imagen de${producto.titulo}">
+                <img src="${strImgDriveF}" alt="imagen de${producto.titulo}">
             </div>
             <div class="col">
                 <h5>${producto.titulo}</h5>
